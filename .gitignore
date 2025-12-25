@@ -75,3 +75,4 @@ playground/
 
 # Claude
 .claude/
+others/get_jira_issue.py
